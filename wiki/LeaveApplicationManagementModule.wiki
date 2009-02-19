@@ -14,6 +14,7 @@ The objectives for this module are:
   * A server, which could be a Unix, Linux or Windows machine (even Windows XP!)
   * You must have a network (ideally)
   * Each user must have a browser installed (preferably Firefox 3 and above)
+  * The Apache web server with PHP & MySQL (Freely available in the XAMPP software)
 
 = Ease of use =
 
@@ -59,3 +60,4 @@ You can even define your own leave types easily. Each leave type has the followi
   * Supports half day applications
   * Supports public holidays (in the HR module)
   * Customization of leave quantities for weekends (0.5 days for sat 1.0 for sun etc)
+  * Unlimited departments or users
