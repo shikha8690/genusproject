@@ -7,3 +7,4 @@
   * Integration with Active Directory (No release date)
   * Improved dashboard (to appear in Release 1.2)
   * Period application deactivation (to appear in Release 1.2)
+  * Paid / unpaid leave category option
