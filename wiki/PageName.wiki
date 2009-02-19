@@ -1,0 +1,9 @@
+#summary One-sentence summary of this page.
+
+= WISH LIST =
+
+  * Leave balances automatically carried forward (to appear in Release 1.1)
+  * Integration with SMTP (to appear in Release 1.2)
+  * Integration with Active Directory (No release date)
+  * Improved dashboard (to appear in Release 1.2)
+  * Period application deactivation (to appear in Release 1.2)
