@@ -7,8 +7,8 @@
   * Integration with Active Directory (No release date)
   * Improved dashboard (to appear in Release 1.2)
   * Period application deactivation (to appear in Release 1.2)
-  * Paid / unpaid leave category 
+  * Paid / unpaid leave category (Completed - pending release)
   * Calendar of leave for each user (to appear in Release 1.3)
-  * Attach proof of medical or other (to appear in Release 1.3)
+  * Attach proof of medical or other (Completed - pending release)
   * Allow rejection of applications (to appear in Release 1.2)
   * Auto approval as a configuration option
