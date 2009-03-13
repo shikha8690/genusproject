@@ -11,3 +11,4 @@
   * Calendar of leave for each user (to appear in Release 1.3)
   * Attach proof of medical or other (to appear in Release 1.3)
   * Allow rejection of applications (to appear in Release 1.2)
+  * Auto approval as a configuration option
