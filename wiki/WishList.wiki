@@ -12,3 +12,4 @@
   * Attach proof of medical or other - done & pending release
   * Allow rejection of applications - done & pending release
   * Auto approval as a configuration option
+  * System wide history for all events
