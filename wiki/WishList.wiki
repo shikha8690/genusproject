@@ -13,3 +13,5 @@
   * Allow rejection of applications - done & pending release
   * Auto approval as a configuration option - done & pending release
   * System wide history for all events
+  * Fine grained access to reports
+  * Improved reports using Flash (similiar to SugarCRM)
